@@ -3,5 +3,5 @@ updates:
   - package-ecosystem: "maven"
     directory: "/"
     schedule:
-      interval: "hourly"
+      interval: "daily"
     open-pull-requests-limit: 0
